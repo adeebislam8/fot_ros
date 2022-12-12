@@ -1,0 +1,6 @@
+<!-- -->
+<launch>
+  <node pkg="fot_planning" type="run_fot.py" name="fot_planning" output="screen">
+  </node>
+
+</launch>
